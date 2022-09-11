@@ -1,0 +1,99 @@
+/*general.css*/
+body {
+  background-color:#F7F6F2 ;
+ font-family:merriweather, arial serif;
+  margin:0;
+  padding-top:66px;
+} 
+* {
+  padding: 0;
+  margin: 0;
+}
+h1,h3 {
+  color:black;
+  text-align:center;
+  font-size:5vw ;
+  font-weight:bold;
+} 
+h2 {
+  font-size:
+} 
+p {
+  line-height:1.3;
+  font-weight:normal;
+} 
+a {
+  outline:none;
+  text-decoration:none;
+  padding:0 8px 8px 8px;
+  margin-right:5px;
+  color:black;
+} 
+a:hover {
+  background:white;
+} 
+h5 {
+  color:grey;
+  margin:10px 0 0 0;
+  padding:10px 0 0 0;
+} 
+/**********Nav bar *********/
+
+
+/*********work container*******/
+
+
+/***********work container*****/
+#bottom {
+  background-color:black;
+  Width:100%;
+} 
+
+.workwith {
+  color:grey;
+} 
+.Eryshub {
+  font-weight:600;
+  Color:white;
+  text-decoration:underline;
+  text-decoration-thickness:2px;
+} 
+.Eryshub:hover {
+  color:grey;
+  padding: 3px;
+  border: 1px solid white;
+} 
+.getintouch {
+  text-align:center;
+} 
+.get-in {
+  color:white;
+} 
+.get {
+  Color:grey;
+} 
+#avail {
+  color:white;
+  padding:20px 3px;
+  margin:20px 0;
+  text-decoration:underline ;
+  text-decoration-thickness:0.5px;
+} 
+#avail:hover {
+  color:white;
+  background-color:black;
+} 
+
+.link {
+  display:inline-block;
+  justify-content:center;
+  color:white;
+  padding:5px;
+  margin:5px;
+  text-decoration:underline;
+  text-decoration-thickness:1px;
+  border-radius: 3px;
+} 
+ .link:hover {
+   color:white;
+ } 

@@ -1,0 +1,120 @@
+.Navbar {
+  height:65px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-bottom-width:1px;
+  border-bottom-style: solid;
+  border-block-color: rgb(192,192,192);
+  
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  
+  z-index: 100;
+}
+.left-section{
+  margin-left:25px;
+}
+.logo {
+  
+}
+.quick-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left:5px;
+  margin-right:5px;
+  max-width:700px;
+  padding-top:8px;
+}
+.quick-nav a {
+  font-size:18px;
+}
+@media (min-width:850px) {
+  .quick-nav{
+    width:350px;
+  }
+}
+.right-section {
+  margin-right:13px;
+}
+.hamburger-menu {
+  height: 35px;
+  margin-right:10px;
+  margin-left:2px;
+}
+/* end of nav bar */
+
+.shot {
+  text-decoration:underline;
+  padding:0;
+} 
+.top-container {
+  background-image:url('Background-image.jpeg');
+  background-repeat:no-repeat;
+  background-size:100%;
+  Max-width:100% ;
+  height:250px;
+  padding-bottom:35px;
+} 
+@media (min-width:850px) {
+  .top-container {
+    height:600px;
+    padding-top:30px;
+    padding-bottom:90px;
+  }
+}
+/*end of top-container background images intro */
+ hr {
+   border: solid rgb(196,196,196) 1px;
+   width: ;
+ }
+ .upper-line {
+   width:70%;
+   text-align: center;
+   margin: 0 auto 0 auto;
+ }
+ .down-line {
+   width: 90%;
+   text-align: center;
+   margin: 0 auto 0 auto;
+ }
+
+.intro {
+  text-align: center;
+  margin: 0 auto 15px auto ;
+  width: 100%px;
+  background-color: #ddd;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-top: 10px;
+}
+@media (min-width:850px){
+  .intro {
+    width:61%;
+    margin-top:30px;
+    margin-bottom:30px;
+  }
+}
+#intro {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.intro h2 {
+  font-size:22px;
+  font-family:helvetica,Arial, Sans-Serif;
+  font-weight:400;
+}
+.intro p{
+  font-family:helvetica,Arial,Sans-Serif;
+  font-weight:400;
+  opacity: ;
+}
+@media (min-width:850px) {
+   .intro p {
+    font-size:23px;
+  }
+}

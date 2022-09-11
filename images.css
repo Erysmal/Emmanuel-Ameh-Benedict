@@ -1,0 +1,39 @@
+.front-img {
+  width:100%;
+  height:300px;
+} 
+@media (min-width:850px){
+  .front-img {
+  
+  }
+}
+
+
+/* end of front-end intro*/
+.seo-img {
+  height:300px;
+  margin: 0 auto 0 auto;
+} 
+@media (min-width:850px) {
+  .seo-img {
+    margin: 0 auto 0 auto;
+    margin-bottom: 18px;
+  }
+}
+.back-img {
+  Max-width:100%;
+  height:300px;
+  margin: 0 auto 0 auto;
+} 
+@media(min-width:850px) {
+  .back-img {
+    height: 400px;
+  }
+}
+.intro-image {
+  width:100px;
+  height:100px;
+  object-fit: cover;
+  border-radius:7px;
+
+} 
