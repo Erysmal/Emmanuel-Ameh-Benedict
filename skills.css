@@ -3,7 +3,7 @@
   font-family: helvetica,Arial,Sans-Serif;
   color: white;
 }
-@media (min-width:850px){
+@media (min-width:800px){
   .main-body-skill {
     margin: px;
   }
@@ -11,7 +11,7 @@
 .skill-container {
   
 }
-@media (min-width:850px) {
+@media (min-width:800px) {
   .skill-container {
     margin: 0 15px 0 15px;
     display: grid;
@@ -34,7 +34,7 @@
   margin:20px 0;
   display: grid;
 }
-@media (min-width:850px) {
+@media (min-width:800px) {
   .front-container {
     Max-width:100%;
     height: 500px;
@@ -52,13 +52,13 @@
   padding:20px;
   margin:20px 0;
 } 
-@media (min-width:850px) {
+@media (min-width:800px) {
   .seo-container {
     Max-width:92%;
     height:500px;
   }
 }
-@media (min-width:850px){
+@media (min-width:800px){
 .intro-subject {
   font-size:3vw;
 }
@@ -67,7 +67,7 @@
 .seo-intro {
   margin-top:15px;
 }
-@media (min-width:850px) {
+@media (min-width:800px) {
   .seo-intro {
     margin-top:33px;
   }
@@ -88,7 +88,7 @@
   padding:20px;
   margin:20px 0;
 } 
-@media (min-width:850px) {
+@media (min-width:800px) {
  .back-end-container {
    height:550px;
    margin: 0 12px 0 12px;
